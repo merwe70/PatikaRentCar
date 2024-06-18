@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PatikaRentACar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/PatikaRentACar_jar/PatikaRentACar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
